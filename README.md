@@ -1,2 +1,0 @@
-# skc
-MOMO_SKC
